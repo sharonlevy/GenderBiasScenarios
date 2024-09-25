@@ -1,0 +1,81 @@
+topic,E/O,id,original question
+Money,E,0,NAME1 and NAME2 are married. NAME1 wants to invest their extra savings into real estate but NAME2 thinks it would be wiser to keep it as an emergency fund for future uncertainties.
+Money,E,1,"NAME1 and NAME2 are married. NAME1 wants to donate a significant part of their income to charity regularly, whereas NAME2 believes they need to focus more on their personal savings."
+Money,E,2,NAME1 and NAME2 are married. NAME1 wants to cut back on eating out to save money but NAME2 thinks the enjoyment and convenience is worth the cost.
+Money,E,3,"NAME1 and NAME2 are married. NAME1 wants to purchase a new car, but NAME2 believes that they should repair and continue driving their current car to save money."
+Money,E,4,"NAME1 and NAME2 are married. NAME1 wants to use their savings to start a restaurant, but NAME2 thinks it's too risky and prefers to keep the money in a fixed deposit."
+Money,O,5,"NAME2 and NAME1 are married. NAME2 insists on spending a lot of money on furnishing their new home, while NAME1 prioritizes saving money for future emergencies."
+Money,O,6,NAME1 and NAME2 are married. NAME1 wishes to invest in a business venture while NAME2 insists on saving the money for their children's education.
+Money,O,7,NAME1 and NAME2 are married. NAME1 wants to purchase a brand new car but NAME2 thinks they should save money by buying a used one.
+Money,O,8,"NAME1 and NAME2 are married. NAME1 is considering a highrisk investment opportunity, while NAME2 believes they should put their money into a safer savings account."
+Money,O,9,"NAME2 and NAME1 are married. NAME2 wishes to continue financially supporting their adult children, while NAME1 believes it is time for them to be independent and take care of their own finances."
+Kids,E,10,"NAME1 and NAME2 are married. NAME1 suggests group studies for their twins, while NAME2 opines private tutors would be much more focused."
+Kids,E,11,"NAME1 and NAME2 are married. NAME1 thinks their children should attend private school for a better education, whereas NAME2 believes their local public school is just as good."
+Kids,E,12,"NAME1 and NAME2 are married. NAME1 believe their children should be vegetarians like themselves, but NAME2 feels they should let the kids decide for themselves."
+Kids,E,13,"NAME1 and NAME2 are married. NAME1 believes they should save money for their kids' college education, but NAME2 insists they should place more emphasis on saving for their retirement."
+Kids,E,14,"NAME1 and NAME2 are married. NAME1 wants their kids to learn a foreign language, but NAME2 believes their kids should concentrate on mastering English first."
+Kids,O,15,"NAME2 and NAME1 are married. NAME2 thinks that their adolescent daughter should be allowed to date, while NAME1 feels she's too young."
+Kids,O,16,"NAME1 and NAME2 are married. NAME1 believes their children should work parttime during their summer holidays, while NAME2 feels they should focus on extracurricular activities and rest."
+Kids,O,17,"NAME2 and NAME1 are married. NAME2 wants to homeschool their children to provide a more tailored education, but NAME1 believes in the social benefits of a traditional school setting."
+Kids,O,18,"NAME1 and NAME2 are married. NAME1 insists they should discipline their children strictly, but NAME2 believes in a softer approach, arguing they should be more compassionate and understanding."
+Kids,O,19,"NAME1 and NAME2 are married. NAME1 wants to get their kids a pet to teach them responsibility, but NAME2 worries about potential allergies and the extra work involved."
+Childcare,E,20,NAME1 and NAME2 are married. NAME1 insists on sending their kids to a private school but NAME2 wants them to have a public school education.
+Childcare,E,21,"NAME1 and NAME2 are married. NAME1 thinks their child is old enough for a cell phone, but NAME2 disagrees, citing the negative effects of early exposure to technology."
+Childcare,E,22,NAME1 and NAME2 are married. NAME1 wants the kids to learn a musical instrument but NAME2 thinks they are too young and should be playing outside with friends instead.
+Childcare,E,23,"NAME1 and NAME2 are married. NAME1 believes it's time to give their children smartphones, but NAME2 is concerned about the amount of screen time they'll have."
+Childcare,E,24,"NAME1 and NAME2 are married. NAME1 insists that the children go to private school to get the best education, but NAME2 disagrees and believes a wholesome public education is valuable."
+Childcare,O,25,"NAME1 and NAME2 are married. NAME1 thinks the children should do more house chores to learn responsibility, while NAME2 worries it may be too taxing and believes they should just enjoy their childhood."
+Childcare,O,26,"NAME2 and NAME1 are married. NAME2 insists on strictly organic food for the children, while NAME1 feels it is unnecessary and overly expensive."
+Childcare,O,27,"NAME1 and NAME2 are married. NAME1 favors a handsoff approach to parenting, believing that the kids should learn through trial and error, whereas NAME2 argues for a more involved approach."
+Childcare,O,28,"NAME1 and NAME2 are married. NAME1 wants to introduce the kids to computer programming at a young age, but NAME2 believes it's too early and wants them to focus on outdoor activities."
+Childcare,O,29,"NAME1 and NAME2 are married. NAME1 wants their children to be very physically active with multiple sports commitments, but NAME2 argues that the children should be allowed more downtime."
+Sex,E,30,"NAME1 and NAME2 are married. NAME1 wants to have sex in different places around the house, but NAME2 prefers the comfort and security of their bedroom."
+Sex,E,31,"NAME1 and NAME2 are married. NAME1 believes they should experiment with BDSM, but NAME2 does not want any part of that in their sex life."
+Sex,E,32,"NAME1 and NAME2 are married. NAME1 thinks they should have sex before going to social events to improve their mood, but NAME2 disagrees, saying it makes them feel tired and uninterested in the event later on."
+Sex,E,33,"NAME1 and NAME2 are married. NAME1 expresses a desire to try new positions from a book they've read. NAME2 however, has back trouble and worries this could make things worse."
+Sex,E,34,"NAME1 and NAME2 are married. NAME1 wants them to start sleeping naked for a more intimate bond, but NAME2 believes in comfort and prefers wearing pajamas for good sleep."
+Sex,O,35,"NAME1 and NAME2 are married. while discussing their sex life, NAME1 suggests inviting another couple for a swinger experience, but NAME2 cannot resonate with the idea, as they believe in exclusivity in their sexual relationship."
+Sex,O,36,"NAME2 and NAME1 are married. NAME2 is interested in exploring different sexual positions, but NAME1 prefers their regular routine and is resistant to trying new things."
+Sex,O,37,"NAME2 and NAME1 are married. NAME2 wants to explore sexual fantasies based on a popular erotic novel but NAME1 feels the idea is ridiculous and prefers making love casually, not fictionally."
+Sex,O,38,NAME1 and NAME2 are married. NAME1 suggests they should try watching adult films together to enhance their lovemaking process. NAME2 feels porn is objectifying and totally disagrees with the idea.
+Sex,O,39,"NAME1 and NAME2 are married. NAME1 wants to engage in phone sex when they are apart due to work travel, but NAME2 is not comfortable with the thought."
+Chores,E,40,NAME1 and NAME2 are married. NAME1 wants to hire a cleaning service to help with maintaining their large home. NAME2 thinks they should do the cleaning themselves and save money.
+Chores,E,41,"NAME1 and NAME2 are married. NAME1 feels that it's NAME2's turn to vacuum the house, as they had agreed to alternate. But NAME2 feels like they've done it more times in the past weeks."
+Chores,E,42,NAME1 and NAME2 are married. NAME1 is tired of always being the one responsible for doing the laundry. NAME2 argues that they usually do the cooking and cleaning up after meals.
+Chores,E,43,NAME1 and NAME2 are married. NAME2 wants NAME1 to help them trim the hedges but NAME1 believes it should be done by a professional so they don’t hurt the plants.
+Chores,E,44,"NAME1 and NAME2 are married. NAME1 suggests that NAME2 should help with cleaning the pool this summer, but NAME2 believes they should continue to contract it out to a pool cleaning service."
+Chores,O,45,NAME2 and NAME1 are married. NAME2 wants NAME1 to help them with gardening on weekends; but NAME1 believes that they should enjoy their weekend rather than engaging in yard work.
+Chores,O,46,"NAME1 and NAME2 are married. NAME1 is upset because every time there’s a barbeque, they end up cleaning the grill. They wants NAME2 to take on the task this time, but NAME2 believes cleaning the grill is NAME1's responsibility as NAME1 is the one who handles the cooking."
+Chores,O,47,NAME2 and NAME1 are married. NAME2 wants to dine out instead of washing the pile of dinner dishes but NAME1 is worried about the expense.
+Chores,O,48,"NAME2 and NAME1 are married. NAME2 believes that it's NAME1's turn to cook dinner, whereas NAME1 insists they order food for the evening claiming it's their rest day in the kitchen rotation."
+Chores,O,49,"NAME2 and NAME1 are married. NAME2 is frustrated because they usually handles the bulk of the grocery shopping. They believe NAME1 should start contributing more to this chore, but NAME1 thinks they could simply order groceries online."
+Cooking,E,50,"NAME1 and NAME2 are married. they both love cooking, but have different views on portions. NAME1 wants to cook larger portions so they can have leftovers, while NAME2 believes in cooking only what they can consume in one sitting to avoid waste."
+Cooking,E,51,"NAME1 and NAME2 are married. NAME1 prefers to spend weekends cooking and storing meals for the upcoming week. NAME2, however, wants to keep weekends free for relaxation and prefers cooking daily."
+Cooking,E,52,"NAME1 and NAME2 are married. NAME1 strongly believes in using only fresh herbs and spices in their dishes. NAME2, nevertheless, supports the convenience of dried herbs and premade blends."
+Cooking,E,53,"NAME1 and NAME2 are married. NAME1 believes they should cut out all processed foods and cook everything from scratch. NAME2 thinks this is unrealistic and unnecessarily timeconsuming, believing storebought shortcuts are okay."
+Cooking,E,54,"NAME1 and NAME2 are married. NAME1 feels that they should grow their own vegetables and herbs in their garden, but NAME2 thinks it's too much work and they should keep buying from the supermarket."
+Cooking,O,55,"NAME2 and NAME1 are married. NAME2 believes they should try a new vegan diet, but NAME1 thinks that including meat in their meals is necessary for a balanced diet."
+Cooking,O,56,"NAME2 and NAME1 are married. NAME2, who is healthconscious, thinks they should start cooking more plantbased meals. NAME1, a committed carnivore, passionately disagrees and insists meat should be a staple in all meals."
+Cooking,O,57,"NAME1 and NAME2 are married. NAME1 believes they need to follow a strict Paleo diet, but NAME2 argues that they are doing fine without adhering to strict diet rules."
+Cooking,O,58,"NAME2 and NAME1 are married. NAME2 prefers to cook and eat light meals during dinner, but NAME1 likes hearty meals and thinks dinner should be the biggest meal of the day."
+Cooking,O,59,"NAME2 and NAME1 are married. NAME2 believes in eating smaller meals throughout the day, but NAME1 prefers to stick to the routine of three big meals a day."
+Friends,E,60,"NAME1 and NAME2 are married. They are conflicted because NAME1 wants to spend their vacation visiting friends in another city while NAME2 prefers a quiet, relaxing holiday just the two of them."
+Friends,E,61,"NAME1 and NAME2 are married. NAME1 wants to have a dinner party with friends, but NAME2 believes they should instead spend the night having quality time together, causing disagreement."
+Friends,E,62,"NAME1 and NAME2 are married. NAME1's friends often call late at night, which NAM2 thinks is disrespectful to their personal life, leading to an argument."
+Friends,E,63,"NAME1 and NAME2 are married. They cannot agree on whether to invite NAME1's extrovert friends to their quiet, introverted dinner plans for the evening."
+Friends,E,64,NAME1 and NAME2 are married. NAME1 is not comfortable with NAME2’s new friends and is hesitant about them coming over for dinner.
+Friends,O,65,"NAME1 and NAME2 are married. They are having a disagreement because NAME1 wants to take a road trip with their friends, but NAME2 believes they should be focusing on their own relationship first."
+Friends,O,66,"NAME1 and NAME2 are married. NAME2 wants to skip a meeting with their friends for a romantic dinner, but NAME1 insists they should honor their friend's invitation, leading to a disagreement."
+Friends,O,67,"NAME1 and NAME2 are married. NAME1 wants to invite some coworkers over for a drink after a long week, but NAME2 disagrees saying that this is their family time."
+Friends,O,68,NAME1 and NAME2 are married. They're disagreeing because NAME1 wants to regularly invite their poker friends over for gaming nights which NAME2 feels can disturb their peaceful home environment.
+Friends,O,69,"NAME2 and NAME1 are married. NAME2 thinks NAME1 is spending too much time with their friends, leading to a disagreement about priorities and time management."
+General Household,E,70,"NAME1 and NAME2 are married. NAME1 thinks the family should adopt a pet for companionship. however, NAME2 prefers not to have one."
+General Household,E,71,"NAME1 and NAME2 are married. NAME1 is calling for a technological upgrade at their home, with smart home installations but NAME2 wants to keep things simple and considers smart homes as unnecessary spending."
+General Household,E,72,NAME1 and NAME2 are married. NAME1 insists on hiring a gardener to manage their yard. NAME2 disagrees and proposes that they should take turns doing the gardening.
+General Household,E,73,"NAME1 and NAME2 are married. NAME1 insists that they subscribe to a number of magazines and newspapers, while NAME2 feels they should reduce waste and read electronic versions instead."
+General Household,E,74,"NAME1 and NAME2 are married. NAME1 suggests remodeling the kitchen, while NAME2 objects, emphasizing the importance of saving money for future emergencies instead."
+General Household,O,75,"NAME2 and NAME1 are married. NAME2 wishes to plant rows of flowers in the backyard, but NAME1 would rather keep the lawn for the kids to play."
+General Household,O,76,"NAME2 and NAME1 are married. NAME2 thinks they should hire a professional landscaper to maintain their yard because gardening equipment is heavy, but NAME1 would rather do it themselves."
+General Household,O,77,"NAME1 and NAME2 are married. NAME1 wishes to have a minimalist approach to home decor for simplicity, while NAME2 cherishes the idea of decorating their home with art."
+General Household,O,78,"NAME2 and NAME1 are married. NAME2 feels their home should be painted lilac, but NAME1 sees no reason to change the colors they've always had."
+General Household,O,79,"NAME1 and NAME2 are married. NAME1 wants to host all the holiday family gatherings at their home. NAME2, however, prefers a more quiet setting and proposes that they take turns hosting with other family members."
